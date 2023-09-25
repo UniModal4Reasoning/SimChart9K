@@ -1,7 +1,7 @@
 # SimChart9K
 
 <div align=center>
-<img src="https://github.com/Uni-Modal/SimChart9K/blob/main/images/SC.png" width="400" height="150">
+<img src="https://github.com/Uni-Modal/SimChart9K/blob/main/images/SC.png" height="100">
 </div>
 
 <div align="center">
