@@ -64,3 +64,15 @@ openxlab dataset get --dataset-repo  Lonepic/SimChart9K
   <img src="images/multi_task_2.png" width="85%">
   <div>Visualization results using the proposed StructChart on different chart-related reasoning tasks including Question Answering (QA), Summarization, and Redrawing.</div>
 </p>
+
+## Citation
+Please consider citing our work if this dataset is helpful for your research:
+
+```
+@article{xia2023structchart,
+  title={StructChart: Perception, Structuring, Reasoning for Visual Chart Understanding},
+  author={Xia, Renqiu and Zhang, Bo and Peng, Haoyang and Liao, Ning and Ye, Peng and Shi, Botian and Yan, Junchi and Qiao, Yu},
+  journal={arXiv preprint arXiv:2309.11268},
+  year={2023}
+}
+```
