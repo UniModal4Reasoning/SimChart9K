@@ -1,3 +1,7 @@
+[![arXiv](https://img.shields.io/badge/arXiv-2309.11268-b31b1b.svg)](https://arxiv.org/abs/2309.11268)
+[![GitHub issues](https://img.shields.io/github/issues/Uni-Modal/SimChart9K)](https://github.com/Uni-Modal/SimChart9K/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Uni-Modal/SimChart9K/pulls)
+
 # SimChart9K
 
 <div align=center>
