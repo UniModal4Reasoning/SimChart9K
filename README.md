@@ -39,7 +39,7 @@ openxlab dataset get --dataset-repo  Lonepic/SimChart9K
 ## t-SNE comparisons with Real Chart Datasets
 
 <p align="center">
-  <img src="images/t-SNE_a.PNG" width="62%">
+  <img src="images/t-SNE_a.png" width="62%">
   <div>Feature Distribution using t-SNE of Real Datasets.</div>
 </p>
 
@@ -52,11 +52,11 @@ openxlab dataset get --dataset-repo  Lonepic/SimChart9K
 ## Visualization Exapmles
 
 <p align="center">
-  <img src="images/multi_task_1.PNG" width="92%">
+  <img src="images/multi_task_1.PNG" width="85%">
   <div>Visualization results using the proposed StructChart on different chart-related reasoning tasks including Question Answering (QA), Summarization, and Redrawing.</div>
 </p>
 
 <p align="center">
-  <img src="images/multi_task_2.PNG" width="92%">
+  <img src="images/multi_task_2.PNG" width="85%">
   <div>Visualization results using the proposed StructChart on different chart-related reasoning tasks including Question Answering (QA), Summarization, and Redrawing.</div>
 </p>
