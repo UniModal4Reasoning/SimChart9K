@@ -1,7 +1,7 @@
 # SimChart9K
 
 <div align=center>
-<img src="https://github.com/Uni-Modal/SimChart9K/blob/main/image/SC.png" width="400" height="150">
+<img src="https://github.com/Uni-Modal/SimChart9K/blob/main/images/SC.png" width="400" height="150">
 </div>
 
 <div align="center">
@@ -36,9 +36,27 @@ c. Download the ReSimAD dataset by performing the following command:
 openxlab dataset get --dataset-repo  Lonepic/SimChart9K
 ```
 
+## t-SNE comparisons with Real Chart Datasets
+
+<p align="center">
+  <img src="images/t-SNE_a.PNG" width="62%">
+  <div>Feature Distribution using t-SNE of Real Datasets.</div>
+</p>
+
+
+<p align="center">
+  <img src="images/t-SNE_b.PNG" width="62%">
+  <div>Feature Distribution using t-SNE of both Real Datasets and SimChart9K.</div>
+</p>
+
 ## Visualization Exapmles
 
 <p align="center">
-  <img src="images/multi_task_1.pdf" width="92%">
+  <img src="images/multi_task_1.PNG" width="92%">
+  <div>Visualization results using the proposed StructChart on different chart-related reasoning tasks including Question Answering (QA), Summarization, and Redrawing.</div>
+</p>
+
+<p align="center">
+  <img src="images/multi_task_2.PNG" width="92%">
   <div>Visualization results using the proposed StructChart on different chart-related reasoning tasks including Question Answering (QA), Summarization, and Redrawing.</div>
 </p>
