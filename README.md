@@ -35,7 +35,7 @@ b. Install the dependent libraries as follows:
     openxlab login
   ```
 
-c. Download the ReSimAD dataset by performing the following command:
+c. Download the SimChart9K dataset by performing the following command:
 ```shell
 openxlab dataset get --dataset-repo  Lonepic/SimChart9K
 ```
